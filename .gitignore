@@ -1,0 +1,6 @@
+scripts/
+**/bin/
+**/obj/
+.vs/
+packages/
+.sonarqube/
