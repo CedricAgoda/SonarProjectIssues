@@ -8,7 +8,7 @@ namespace SonarProjectIssuesTests
     public class CalculatorTests
     {
         private Calculator calculator = new Calculator();
-        private int unused;
+        private int unusedInTests;
 
         [Test]
         public void TestAdd()
